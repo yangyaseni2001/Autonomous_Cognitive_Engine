@@ -1,0 +1,16 @@
+streamlit
+langchain
+langgraph
+langchain-groq
+python-dotenv
+
+langchain-core
+langchain-community
+
+pydantic
+typing-extensions
+
+requests
+tqdm
+
+langsmith
